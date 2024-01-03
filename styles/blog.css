@@ -1,3 +1,10 @@
 .background-color{
     background-color: burlywood;
 }
+.font-color{
+    /* font-family: 'Courier New', Courier, monospace; */
+    /* font-size: larger; */
+    /* font-style: italic; */
+    /* font: bold; */
+    color: blue;
+}
